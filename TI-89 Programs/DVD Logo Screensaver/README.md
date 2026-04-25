@@ -3,7 +3,7 @@ A little animation programmed in TI-89 Basic. It is based on the boucing DVD log
 <br>
 ### How to set it up:
 1. Download all the bitmap images and the program file **DO NOT RENAME THE IMAGES** 
-2. Send them to you calculator using the correct *TI-Connect* program (make sure it is compatible with TI-98)
+2. Send them to you calculator using the correct *TI-Connect* program (make sure it is compatible with TI-89)
 ### How to use the program:
 - To execute the program, confirm that all the images are in the **main** file path 
 - Just type in the newsvr() command into the calculator and the program will execute
