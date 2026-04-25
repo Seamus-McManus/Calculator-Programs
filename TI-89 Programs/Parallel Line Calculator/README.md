@@ -1,7 +1,7 @@
 # Parallel Line Calculator
 A simple program I made that solves a very specific and annoying type of problem that I kept getting in math class a long time ago XD
 ## How to Set it Up:
--Just put the calcpll.8xp file on your TI-89 in any directory using the *TI-Connect* compatible with your TI-89 calculator
+-Just put the calcpll.89p file on your TI-89 in any directory using the *TI-Connect* compatible with your TI-89 calculator
 ## How to use:
 To explain this, I am going to use an example math problem where you can use the program: 
 >"Find the equation of a line parallel to y=3x+4 that passes through the point (2, 1)"
